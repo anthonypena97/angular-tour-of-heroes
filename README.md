@@ -1,5 +1,8 @@
-# AngularTourOfHeroes
+![image](https://user-images.githubusercontent.com/79285555/195671047-b1497137-5115-4be5-82aa-234c2cba5335.png)
 
+<hr>
+
+# Tour Of Heroes
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
