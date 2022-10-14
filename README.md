@@ -21,7 +21,7 @@ On this website you can:
 - view top heroes
 - view the HTTP requests messages
 
-This project was written using [Angular 14](https://angular.io/)
+This project was written using [Angular 14](https://angular.io/) and uses the [in-memory Web API](https://github.com/angular/angular/tree/main/packages/misc/angular-in-memory-web-api) to simulate a data server
 
 As well, this project was programmed following the Angular Official Tutorial [Tour of Heroes](https://angular.io/tutorial)
 
