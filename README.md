@@ -1,30 +1,69 @@
-![image](https://user-images.githubusercontent.com/79285555/195671047-b1497137-5115-4be5-82aa-234c2cba5335.png)
+# Tour of Heroes
+
+<div align=center>
+<a href="https://anthonypena97.github.io/angular-tour-of-heroes/" target="_blank">
+<img src="https://user-images.githubusercontent.com/79285555/195741717-48ccf5ba-8e8d-486a-bd13-c5d9f3c3ce05.gif" alt="angular-tour-of-heroes-demo" width="700"/>
+</a>
+</div>
 
 <hr>
 
-# Tour Of Heroes
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+Live Site: https://anthonypena97.github.io/angular-tour-of-heroes/
 
-## Development server
+## Description
+Tour of Heroes is a website which displays a databse of heroes.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+On this website you can:
+- search for a hero
+- add a hero
+- remove a hero
+- updated a hero's name
+- view top heroes
+- view the HTTP requests messages
 
-## Code scaffolding
+This project was written using [Angular 14](https://angular.io/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+As well, this project was programmed following the Angular Official Tutorial [Tour of Heroes](https://angular.io/tutorial)
 
-## Build
+## Table of Contents
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Notes](#notes)
+- [Version History](#version-history)
+- [Questions](#questions)
 
-## Running unit tests
+## Installation
+- Set up local enviornment with Angular following instructions [here](https://angular.io/guide/setup-local)
+- Download or clone this repository
+- Run `npm i`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Usage
+Development:
+- Run `ng serve --open`
 
-## Running end-to-end tests
+Deployment:
+- Run `build --base-href "https://<username>.github.io/<project name>/"`
+- Run `ngh --dir dist/<project-name>`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Notes
+This project explores Angular concepts such as: 
+- Directives 
+- Components 
+- Data binding
+- Format data with pipes
+- Share services
+- Routing
+- Binding component methods to user events
 
-## Further help
+## Version History
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- v.1.0 is latest version
+  - See [commit change](https://github.com/anthonypena97/angular-tour-of-heroes/commits/main) or See [release history](https://github.com/anthonypena97/angular-tour-of-heroes/releases)
+  
+## Questions
+
+For any inquiries or questions, please contact Anthony Pena via:
+
+- GitHub: [anthonypena97](https://github.com/anthonypena97)
+- Email: <anthony.e.p3na@gmail.com>
